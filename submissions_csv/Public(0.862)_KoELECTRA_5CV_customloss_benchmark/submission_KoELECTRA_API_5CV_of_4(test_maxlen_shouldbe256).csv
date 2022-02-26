@@ -15,7 +15,7 @@ index,label
 13,entailment
 14,neutral
 15,neutral
-16,neutral
+16,entailment
 17,neutral
 18,contradiction
 19,neutral
@@ -51,14 +51,14 @@ index,label
 49,entailment
 50,neutral
 51,contradiction
-52,entailment
+52,contradiction
 53,neutral
 54,neutral
 55,entailment
 56,neutral
 57,neutral
 58,entailment
-59,neutral
+59,contradiction
 60,entailment
 61,neutral
 62,neutral
@@ -75,7 +75,7 @@ index,label
 73,entailment
 74,neutral
 75,neutral
-76,entailment
+76,neutral
 77,neutral
 78,neutral
 79,contradiction
@@ -135,7 +135,7 @@ index,label
 133,entailment
 134,neutral
 135,entailment
-136,neutral
+136,contradiction
 137,neutral
 138,contradiction
 139,contradiction
@@ -192,10 +192,10 @@ index,label
 190,neutral
 191,entailment
 192,contradiction
-193,neutral
+193,entailment
 194,neutral
 195,entailment
-196,entailment
+196,neutral
 197,neutral
 198,entailment
 199,neutral
@@ -213,7 +213,7 @@ index,label
 211,contradiction
 212,contradiction
 213,neutral
-214,neutral
+214,contradiction
 215,contradiction
 216,contradiction
 217,entailment
@@ -244,7 +244,7 @@ index,label
 242,neutral
 243,neutral
 244,neutral
-245,entailment
+245,neutral
 246,neutral
 247,neutral
 248,contradiction
@@ -324,7 +324,7 @@ index,label
 322,neutral
 323,entailment
 324,contradiction
-325,entailment
+325,contradiction
 326,contradiction
 327,neutral
 328,contradiction
@@ -367,7 +367,7 @@ index,label
 365,neutral
 366,neutral
 367,entailment
-368,entailment
+368,contradiction
 369,neutral
 370,contradiction
 371,contradiction
@@ -394,7 +394,7 @@ index,label
 392,contradiction
 393,neutral
 394,contradiction
-395,contradiction
+395,neutral
 396,neutral
 397,neutral
 398,contradiction
@@ -470,7 +470,7 @@ index,label
 468,entailment
 469,neutral
 470,contradiction
-471,neutral
+471,contradiction
 472,entailment
 473,entailment
 474,entailment
@@ -509,7 +509,7 @@ index,label
 507,contradiction
 508,entailment
 509,contradiction
-510,neutral
+510,contradiction
 511,entailment
 512,neutral
 513,entailment
@@ -518,7 +518,7 @@ index,label
 516,entailment
 517,entailment
 518,contradiction
-519,neutral
+519,contradiction
 520,neutral
 521,neutral
 522,contradiction
@@ -529,7 +529,7 @@ index,label
 527,entailment
 528,contradiction
 529,entailment
-530,neutral
+530,contradiction
 531,neutral
 532,contradiction
 533,entailment
@@ -572,7 +572,7 @@ index,label
 570,neutral
 571,entailment
 572,contradiction
-573,entailment
+573,contradiction
 574,entailment
 575,contradiction
 576,entailment
@@ -620,7 +620,7 @@ index,label
 618,contradiction
 619,neutral
 620,contradiction
-621,contradiction
+621,neutral
 622,entailment
 623,contradiction
 624,entailment
@@ -639,7 +639,7 @@ index,label
 637,entailment
 638,entailment
 639,contradiction
-640,neutral
+640,contradiction
 641,entailment
 642,neutral
 643,entailment
@@ -675,7 +675,7 @@ index,label
 673,contradiction
 674,neutral
 675,entailment
-676,entailment
+676,neutral
 677,neutral
 678,contradiction
 679,neutral
@@ -722,11 +722,11 @@ index,label
 720,entailment
 721,neutral
 722,neutral
-723,entailment
+723,neutral
 724,neutral
 725,contradiction
 726,neutral
-727,neutral
+727,contradiction
 728,contradiction
 729,entailment
 730,entailment
@@ -735,7 +735,7 @@ index,label
 733,neutral
 734,entailment
 735,neutral
-736,entailment
+736,contradiction
 737,neutral
 738,neutral
 739,entailment
@@ -820,7 +820,7 @@ index,label
 818,neutral
 819,entailment
 820,neutral
-821,contradiction
+821,neutral
 822,neutral
 823,neutral
 824,neutral
@@ -838,7 +838,7 @@ index,label
 836,entailment
 837,contradiction
 838,neutral
-839,neutral
+839,contradiction
 840,neutral
 841,entailment
 842,contradiction
@@ -884,7 +884,7 @@ index,label
 882,contradiction
 883,entailment
 884,entailment
-885,neutral
+885,contradiction
 886,neutral
 887,neutral
 888,entailment
@@ -923,7 +923,7 @@ index,label
 921,entailment
 922,entailment
 923,contradiction
-924,contradiction
+924,neutral
 925,contradiction
 926,entailment
 927,entailment
@@ -950,7 +950,7 @@ index,label
 948,neutral
 949,entailment
 950,contradiction
-951,neutral
+951,entailment
 952,contradiction
 953,contradiction
 954,contradiction
@@ -1021,7 +1021,7 @@ index,label
 1019,contradiction
 1020,entailment
 1021,neutral
-1022,entailment
+1022,neutral
 1023,contradiction
 1024,entailment
 1025,neutral
@@ -1031,7 +1031,7 @@ index,label
 1029,contradiction
 1030,entailment
 1031,neutral
-1032,entailment
+1032,contradiction
 1033,entailment
 1034,neutral
 1035,contradiction
@@ -1104,7 +1104,7 @@ index,label
 1102,contradiction
 1103,entailment
 1104,contradiction
-1105,neutral
+1105,entailment
 1106,contradiction
 1107,contradiction
 1108,entailment
@@ -1120,7 +1120,7 @@ index,label
 1118,entailment
 1119,contradiction
 1120,contradiction
-1121,entailment
+1121,neutral
 1122,neutral
 1123,contradiction
 1124,neutral
@@ -1241,7 +1241,7 @@ index,label
 1239,neutral
 1240,neutral
 1241,neutral
-1242,contradiction
+1242,neutral
 1243,entailment
 1244,entailment
 1245,contradiction
@@ -1313,7 +1313,7 @@ index,label
 1311,contradiction
 1312,contradiction
 1313,contradiction
-1314,entailment
+1314,contradiction
 1315,neutral
 1316,entailment
 1317,entailment
@@ -1354,7 +1354,7 @@ index,label
 1352,neutral
 1353,entailment
 1354,entailment
-1355,contradiction
+1355,neutral
 1356,contradiction
 1357,contradiction
 1358,entailment
@@ -1385,7 +1385,7 @@ index,label
 1383,entailment
 1384,contradiction
 1385,entailment
-1386,neutral
+1386,entailment
 1387,contradiction
 1388,neutral
 1389,contradiction
@@ -1474,7 +1474,7 @@ index,label
 1472,neutral
 1473,contradiction
 1474,entailment
-1475,neutral
+1475,contradiction
 1476,neutral
 1477,entailment
 1478,entailment
@@ -1586,12 +1586,12 @@ index,label
 1584,neutral
 1585,neutral
 1586,neutral
-1587,neutral
+1587,entailment
 1588,entailment
 1589,entailment
 1590,contradiction
 1591,entailment
-1592,neutral
+1592,contradiction
 1593,contradiction
 1594,neutral
 1595,neutral
@@ -1616,7 +1616,7 @@ index,label
 1614,entailment
 1615,contradiction
 1616,neutral
-1617,contradiction
+1617,neutral
 1618,contradiction
 1619,contradiction
 1620,neutral
@@ -1628,7 +1628,7 @@ index,label
 1626,neutral
 1627,entailment
 1628,contradiction
-1629,neutral
+1629,entailment
 1630,contradiction
 1631,entailment
 1632,entailment
