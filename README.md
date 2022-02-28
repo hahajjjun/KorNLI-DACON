@@ -1,36 +1,37 @@
-# DACON MONTHLY NLI
+# KorNLI, DACON
 
-- Private Repository for YBIGTA20 Junior Project
-- Approaches & Results for DACON Monthly NLI Task
+*Contributor : Junha Park, Hongsun Jang, Jinho Jeong*, YBIGTA
+
+<embed src="PDF\README.pdf" type="application/pdf" width="100%"></embed>
 
 ### Current Status of this Repository
 
 ---
 
-DACON_MONTHLYNLI
-ㄴ📁additional datasets
-ㄴ📁inference_script
-ㄴ📁model_script
-ㄴ📁preprocessing_script
-ㄴ📁submissions_csv
-ㄴREADME. md
-ㄴTask Summary. pdf
+KorNLI, DACON <br/>
+ㄴ📁additional datasets <br/>
+ㄴ📁inference_script <br/>
+ㄴ📁model_script <br/>
+ㄴ📁PDF <br/>
+ㄴ📁preprocessing_script <br/>
+ㄴ📁submissions_csv <br/>
+ㄴREADME. md <br/>
 
 ---
 
-📁additional datasets
+📁additional datasets <br/>
 - contains KLUE benchmarked dataset
 - currently exploiting benchmark_train_data
 - also uploaded in google drive
 
 ---
 
-📁inference_script
+📁inference_script <br/>
 - contains KoELECTRA model inference & softvoting script
 
 ---
 
-📁model_script
+📁model_script <br/>
 - KoELECTRA(Public 0.822 >> 0.836)
     - only dataset and hyperparms are varied
 - KoBERT(Public 0.73) + WanDB
@@ -39,12 +40,12 @@ DACON_MONTHLYNLI
 
 ---
 
-📁preprocessing_script
+📁preprocessing_script <br/>
 - Benchmarking_Data.ipynb
     - script for creating benchmarked data
 
 ---
 
-📁submissions_csv
+📁submissions_csv <br/>
 - All submission .csv files
 - Softvoted .csv files from all ensembles
