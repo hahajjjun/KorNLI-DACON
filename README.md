@@ -1,8 +1,8 @@
 # KorNLI, DACON
 
 *Contributor : Junha Park, Hongsun Jang, Jinho Jeong*, YBIGTA
-
-<embed src="PDF\README.pdf" type="application/pdf" width="100%"></embed>
+<img src = "./PDF/README-1.jpg"></img>
+<img src = "./PDF/README-2.jpg"></img>
 
 ### Current Status of this Repository
 
