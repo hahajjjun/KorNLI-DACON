@@ -4,48 +4,15 @@
 <img src = "./PDF/README-1.jpg"></img>
 <img src = "./PDF/README-2.jpg"></img>
 
-### Current Status of this Repository
+### Result
+<p>
+The table below describes the performance of vanilla model, <br/>
+without any augmentation, loss function customization, and ensemble. <br/> Learning rate are benchmarked from BERT paper and epoch is limited to 10, <br/> due to restricted GPU environment. <br/>
+</p>
 
----
-
-KorNLI, DACON <br/>
-ㄴ📁additional datasets <br/>
-ㄴ📁inference_script <br/>
-ㄴ📁model_script <br/>
-ㄴ📁PDF <br/>
-ㄴ📁preprocessing_script <br/>
-ㄴ📁submissions_csv <br/>
-ㄴREADME. md <br/>
-
----
-
-📁additional datasets <br/>
-- contains KLUE benchmarked dataset
-- currently exploiting benchmark_train_data
-- also uploaded in google drive
-
----
-
-📁inference_script <br/>
-- contains KoELECTRA model inference & softvoting script
-
----
-
-📁model_script <br/>
-- KoELECTRA(Public 0.822 >> 0.836)
-    - only dataset and hyperparms are varied
-- KoBERT(Public 0.73) + WanDB
-
-- *Further : Data Augmentation with KoELECTRA*
-
----
-
-📁preprocessing_script <br/>
-- Benchmarking_Data.ipynb
-    - script for creating benchmarked data
-
----
-
-📁submissions_csv <br/>
-- All submission .csv files
-- Softvoted .csv files from all ensembles
+|Model|Vanilla Public Score|
+|---|---|
+|KoELECTRA|0.866|
+|ROBERTa base|0.861|
+|ROBERTa large|0.875|
+|Ensemble|0.886|
